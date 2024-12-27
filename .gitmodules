@@ -1,4 +1,3 @@
-[submodule "themes/blowfish"]
-	path = themes/blowfish
-	url = https://github.com/nunocoracao/blowfish.git
-	branch = main
+[submodule "Martie06.github.io"]
+  path = loken
+  url = git@github.com:Martie06/loken.git
