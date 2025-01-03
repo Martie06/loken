@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 baseURL = 'https://martie06.github.io/'
+=======
+baseURL = 'https://martie06.github.io/loken/'
+>>>>>>> cbc94d6d42d311d1659f79eaa16b6c9d40ef654d
 languageCode = 'en-us'
 title = 'My New Hugo Site'
