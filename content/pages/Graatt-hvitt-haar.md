@@ -9,7 +9,6 @@ tags:
 slug: graatt-hvitt-haar
 showAuthor: true
 authors: 
-draft: false
 ---
 Natt til i dag har for mange vært en emosjonell påkjenning. Spesielt for den del av befolkningen som har klart å stelle seg imot urbaniseingens vrede, ble fyrverkeriet som lyste opp himmelen i vakre formasjoner et øyeblikk for glede med nære kjære. 
 
